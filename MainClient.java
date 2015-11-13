@@ -1,3 +1,8 @@
+/*
+Author: Karan Maniar
+Email ID: karan.maniar@hotmail.com
+*/
+
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
 import java.awt.*;
